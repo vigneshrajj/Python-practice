@@ -65,7 +65,7 @@ print(li1-li)
 
 
 
-#7
+#7 incomplete
 maxx=0
 for num in range(2,10002):
     prime = True
@@ -101,7 +101,7 @@ for i in range(1000):
             
             
             
-#10
+#10 incomplete
 summ=0
 li=list()
 for i in range(2,2000000):
