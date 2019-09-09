@@ -1,0 +1,188 @@
+1:French Fries
+2:Chilli Cheese Toast
+3:Chilli Cheese Gralic Toast
+4:Garlic Bread
+5:Garlic Bread with Cheese
+6:Plain Sandwich
+7:Grilled Sandwich
+8:Club Sandwich
+9:Russian Salad / Maccroni
+10:Veg. Burger
+11:Maccroni Hotpot
+12:Veg. Augratin
+13:Pasta Spicy Tomato / Classical Cheese
+14:Pasta in Twin Sauce
+15:Plain Cheese Pizza
+16:Capsicum, Onion Pizza
+17:Tomato, Onion Pizza
+18:Capsicum, Onion, Mashroom Pizza
+19:Jain Spl. Pizza
+20:Tandoori Pizza
+21:Super Veggie Pizza(Double Cheese)
+22:Cheese
+23:Lasanana Roll
+24:Paneer Salsa Wrap
+25:Lebenense Fala Fel
+26:Hot & Sour
+27:Lemon & Coriander
+28:Veg. Noodle Soup
+29:Sweet Corn
+30:Veg. Munchow
+31:Veg. Clear Soup
+32:Spring Roll
+33:Chilly Paneer Dry
+34:Veg. Manchurian Dry
+35:Potatoes in Honey & Chilly
+36:Fried Vegetables in Salt & Papper
+37:Crispy Spinach & Baby - Corn
+38:Chilly Mushroom Dry
+39:Veg Chopsouey
+40:Chilly Paneer Gravy
+41:Manchurian Gravy
+42:Sweet & Sour Veg.
+43:Mix. Veg. in Hot Garlic Sauce
+44:Shreded Potatoes in Hot Garlic Sauce
+45:Veg Hakka Noodles
+46:Chilli Garlic Noodles
+47:Pan Fried Noodles
+48:Gravy Noodles
+49:Veg. Fried Rice
+50:Chilly Garlic Rice
+51:Pav Bhaji
+52:Jain Pav Bhaji
+53:Bombay Vada Pav
+54:Extra Pav
+55:Dahi Bhalla / Dahi Papri
+56:Dahi Bhalla Papri
+57:Gol Gappa (6 pcs.)
+58:Gol Gappa Water Extra For Packing
+59:Tomato Soup
+60:Tandoori Paneer Tikka
+61:Malai Paneer Tikka
+62:Soya Tandoori Tikka
+63:Tandoori Aloo
+64:Punjabi Soya Chap
+65:Hare-Bhare Kabab
+66:Dahi ke Kabab
+67:Platter
+68:Shahi Paneer
+69:Kadhai Paneer
+70:Paneer Butter Masala
+71:Mushroom Masala
+72:Malai Kofta
+73:Dal Makhani
+74:Yellow Dal
+75:Rajma
+76:Chole
+77:Tandoori Roti
+78:Roomali Roti
+79:Butter Roti
+80:Plain Naan
+81:Butter Naan
+82:Garlic Naan Butter
+83:Tawa Parantha
+84:Laccha Parantha
+85:Pudina Parantha
+86:Stuffed Kulcha (Aloo)
+87:Stuffed Kulcha (Paneer)
+88:Stuffed Kulcha (Onion)
+89:Papad
+90:Steam Rice
+91:Soya Dum Biryani
+92:Veg. Pulao
+93:Mix Veg. Pulao
+94:Jeera Pulao
+95:Matka Biryani With Raita
+96:Hyderabadi Biryani
+97:Plain Raita
+98:Boondi Raita
+99:Mix. Veg. Raita
+100Jeera:Raita
+101:Pineapple Raita
+102:Gulab Jamun
+103:Halwa (Seasonal)
+104:Thali Regular (Only Packing)
+105:(Dal Makhani, Seasonal Veg., Bread, Rice & One Dessert.)
+106:Thali Special
+107:Roomali Roti with Paneer Tikka Masala
+108:Rogan Soya Chap with Roomali Roti
+109:Rice Idli
+110:Sambhar Vada
+111:Dahi Vada
+112:Dosa (Butter)
+113:Onion Dosa (Butter)
+114:Paper Dosa
+115:Mysore Dosa
+116:Rawa Dosa
+117:Onion Rawa Dosa
+118:Masala
+119:Dosa (Butter)
+120:Onion Dosa (Butter)
+121:Paper Dosa
+122:Myscore Dosa
+123:Rawa Dosa
+124:Onion Rawa Dosa
+125:Onion Uttapam
+126:Tomato Uttapam
+127:Mix Veg Uttapam
+128:Sambhar Rice
+129:Curd Rice
+130:Rava Kesri
+131:Sambhar
+132:Chutney
+133:S.L.U.R.P.
+134:Fresh Juices
+135:Fresh Juices Seasonal/Mix
+136:Fruit Punch
+137:Red Sea
+138:Virgin Colada
+139:Love Valley
+140:Pomi Twist
+141:Ginger Fizz
+142:Italian Smooch
+143:Devils Kiss
+144:Blue Lagoon
+145:Fresh Mint Mojito
+146:Kiwi Smoothie
+147:Virgin Guava:
+148:Litchi Smoothie
+149:Peach Apricot
+150:Blue Berry Smoothie
+151:Green Hayland
+152:White Rosy
+153:Watermelon Mojito
+154:Vanilla/Strawberry
+155:Tutti Fruti
+156:Pineapple
+157:Chocolate
+158:Butter Scotch
+159:Kaju Kishmish
+160:Vanilla Chocochips
+161:Mango
+162:Anjeer Honey
+163:Chocolate Almond Fudge
+164:Kesar Pista
+165:Black Currant
+166:Hot Choclate Fudge
+167:Fruit Salad Sundae
+168:Lime Ice / Orange
+169:Golden Glow / Strawberry
+170:Vanilla
+171:Mango
+172:Pineapple
+173:Chocolate / Coffee
+174:Kesar Pista
+175:Butter Scotch
+176:Tea
+177:Coffee Mocachino
+178:Coffee Americano (Black)
+179:Coffee Espresso
+180:Ice Tea (Lemon)
+181:Coffee Cappuccino
+182:Espresso (Black)
+183:Cold-Coffee (Frappe)
+184:Cola / Orange / Lemon
+185:Diet Pepsi
+186:Fresh Lime Soda Sweet / Salt
+187:Mineral Water
+188:Fresh lime Water Sweet / Salt
