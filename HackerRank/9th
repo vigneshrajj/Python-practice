@@ -1,0 +1,26 @@
+li=list()
+for i in range(int(raw_input())):
+    name = raw_input()
+    score = float(raw_input())
+    li.append([name,score])
+y=[]
+for i in li:
+    y.append(i[1])
+y.sort()
+
+a,b=max(y),min(y)
+min_score=[]
+
+name_li=[]
+for j in li:
+    if(b<j[1] and j[1]<=a):
+        a=j[1]
+        min_score.append(j[1])
+second=min(min_score)
+
+for i in li:
+    if(i[1]==second):
+        name_li.append(i[0])
+name_li.sort()
+for i in name_li:
+    print(i)
